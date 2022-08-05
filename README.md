@@ -55,4 +55,4 @@ Please see Joint_savings.sol
 ![5 ether to account 1 with verifications](Execution_Results/Step_3_3_5ETHto1.png)
 
 10 ETH to Account 2 with verifications
-![10 ether to account 2 with verifications](Execution_Results/Step_3_3_10ETHto2).png
+![10 ether to account 2 with verifications](Execution_Results/Step_3_3_10ETHto2.png)
