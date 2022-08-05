@@ -1,7 +1,6 @@
 # FinTech_Unit_20_Joint_Savings_Account
 A Solidity Smart Contract that automates hosting of joint savings accounts.
 
-![An image shows a wallet with bitcoin.](images/19-4-challenge-image.png)
 
 ### Background
 
